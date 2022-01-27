@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Android Based projects**
 
-- 🌱 I’m currently learning **System-administration, DevOps.**
+- 🌱 I’m currently learning ** DevOps.**
 
 - 📫 How to reach me **Adityasimant88@gmail.com**
 
