@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/protagonist_z0" target="blank"><img src="https://img.shields.io/twitter/follow/protagonist_z0?logo=twitter&style=for-the-badge" alt="protagonist_z0" /></a> </p>
 
-- 🔭 I’m currently working on : **Android Based projects, Devops.**
+- 🔭 I’m currently working on : **Android projects, Web-Dev projects, Devops.**
 
 - 🌱 I’m currently learning : ** DevOps.**
 
