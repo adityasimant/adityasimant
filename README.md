@@ -6,7 +6,6 @@ Full-Stack Developer
 
 * 🌍  I'm based in Maharashtra, India.
 * ✉️  You can contact me at [adityasimant88@gmail.com](mailto:adityasimant88@gmail.com)
-* 🚀  I'm currently working on [Freedom20](http://github.com/adityasimant/Freedom20)
 * 🧠  I'm learning DSA,System administration, DevOps.
 * ⚡  One day I'll make the onions cry.
 
