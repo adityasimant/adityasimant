@@ -1,7 +1,7 @@
 Hi 👋 My name is Aditya Simant.
 ===============================
 
-Full-Stack Developer
+Development | DevOps | Open-source
 --------------------
 
 * 🌍  I'm based in Maharashtra, India.
