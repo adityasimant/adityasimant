@@ -50,8 +50,8 @@ src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpos
 <p align="left"> <a href="https://www.dev.to/adityasimant" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/adityasimant" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aditya-simant/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/aadisimt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/protagonist_z0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
-<div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasimant&show_icons=true&locale=en&layout=compact" alt="adityasimant" /></p>
+<div >
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasimant&show_icons=true&locale=en&layout=compact" alt="adityasimant" /></p>
 
   </div>
 
