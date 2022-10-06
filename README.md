@@ -13,7 +13,21 @@ Full-Stack Developer
 src="https://img.shields.io/twitter/follow/protagonist_z0?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=22272e"
 /></a>
 
+
+<div >
+<a href="https://www.instagram.com/aadisimant/" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+/></a>
+
+<a href="https://devpost.com/adityasimant88?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" rel="noreferrer"><img
+src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white"
+/></a>
+</div>
+
+
+
 ### Skills
+
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
