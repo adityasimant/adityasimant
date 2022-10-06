@@ -50,12 +50,15 @@ src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpos
 <p align="left"> <a href="https://www.dev.to/adityasimant" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/adityasimant" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aditya-simant/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/aadisimt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/protagonist_z0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasimant&show_icons=true&locale=en&layout=compact" alt="adityasimant" /></p>
 
-<b>My GitHub Stats</b>
+  </div>
 
-<a href="http://www.github.com/adityasimant"><img src="https://github-readme-stats.vercel.app/api?username=adityasimant&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="adityasimant's GitHub stats" /></a>
+<div>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasimant&show_icons=true&locale=en" alt="adityasimant" /></p>
+  </div>
 
-<a href="http://www.github.com/adityasimant"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasimant&stroke=ffffff&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasimant&" alt="adityasimant" /></p>
 
-<a href="https://github.com/adityasimant" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasimant&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
