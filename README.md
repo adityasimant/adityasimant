@@ -6,7 +6,7 @@ Development | DevOps | Open-source
 
 * 🌍  I'm based in Maharashtra, India.
 * ✉️  You can contact me at [adityasimant88@gmail.com](mailto:adityasimant88@gmail.com)
-* 🧠  I'm learning DSA,System administration, DevOps.
+* 🧠  I'm learning DevOps.
 * ⚡  One day I'll make the onions cry.
 
 <a href="https://www.twitter.com/protagonist_z0" target="_blank" rel="noreferrer"><img
