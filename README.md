@@ -52,13 +52,7 @@ src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpos
 ### Badges
 <div >
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasimant&show_icons=true&locale=en&layout=compact" alt="adityasimant" /></p>
-
-  </div>
-
-<div>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasimant&show_icons=true&locale=en" alt="adityasimant" /></p>
-  </div>
-
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasimant&" alt="adityasimant" /></p>
 
