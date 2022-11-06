@@ -3,8 +3,7 @@
 
 Development | DevOps | Open-source
 --------------------
-
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=adityasimant&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=adityasimant&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Aditya SImant's Github Stats">
 
 
 * 🌍  I'm based in Maharashtra, India.
