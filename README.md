@@ -1,5 +1,5 @@
 
-<img   src="https://github.com/adityasimant/adityasimant/blob/main/%40adityasimant.png">
+<img   src="https://github.com/adityasimant/adityasimant/blob/main/%40adityasimant%20(1).png">
 
 Development | DevOps | Open-source
 --------------------
