@@ -1,6 +1,5 @@
 # Hi there, I'm Aditya Simant
 
-
 <img   src="https://github.com/adityasimant/adityasimant/blob/main/%40adityasimant%20(1).png">
 
 Development | DevOps | Open-source
