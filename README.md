@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya Simant
+# Hi there, I'm Aditya 
 
 <img   src="https://github.com/adityasimant/adityasimant/blob/main/%40adityasimant%20(1).png">
 
