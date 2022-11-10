@@ -4,7 +4,9 @@
 
 Development | DevOps | Open-source
 --------------------
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=adityasimant&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Aditya SImant's Github Stats">
+ 
+
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=adityasimant&theme=gotham&show_icons=true" alt="Aditya SImant's Github Stats">
 
 
 * 🌍  I'm based in Maharashtra, India.
@@ -20,6 +22,9 @@ src="https://img.shields.io/twitter/follow/protagonist_z0?logo=twitter&style=for
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aadisimant/)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/adityasimant88?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/adityasimant)
+
+
+<!-- [![Sparkline](https://stars.medv.io/adityasimant/badges.svg)](https://stars.medv.io/adityasimant/badges) -->
 
 ## I work with :
 ![Image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
