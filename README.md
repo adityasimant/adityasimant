@@ -40,7 +40,7 @@ src="https://img.shields.io/twitter/follow/protagonist_z0?logo=twitter&style=for
     <a href="https://github.com/adityasimant/github-readme-streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasimant&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-  <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasimant&langs_count=8&count_private=true&layout=compact&theme=black-ice&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasimant&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 
