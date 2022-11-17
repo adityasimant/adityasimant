@@ -35,6 +35,15 @@ src="https://img.shields.io/twitter/follow/protagonist_z0?logo=twitter&style=for
 ![Image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
+<!-- 
+<div>
+ <div><img  src=>
+</div> 
+ <div><img align="right" src=>
+</div> 
+</div> -->
+![stats align="left"  width="50%" ](https://github-readme-streak-stats.herokuapp.com/?user=adityasimant&theme=react&hide_border=true&stroke=0000&background=060A0CD0)
+![stats align="right"  width="50%" ](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasimant&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
 
 ## Latest Blogs :
@@ -44,9 +53,3 @@ src="https://img.shields.io/twitter/follow/protagonist_z0?logo=twitter&style=for
 
 
 
-<div>
-<img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasimant&theme=react&hide_border=true&stroke=0000&background=060A0CD0">
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasimant&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
-</div>
