@@ -36,17 +36,17 @@ src="https://img.shields.io/twitter/follow/protagonist_z0?logo=twitter&style=for
 ![Image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 
- <br/>
-    <a href="https://github.com/adityasimant/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasimant&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-  <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasimant&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
 
 ## Latest Blogs :
 
 - [Testkube](https://dev.to/adityasimant/testkube-the-kubernetes-native-testing-framework-3m4h)
-- [Mock Response with Retrofit and Okhttp](https://dev.to/adityasimant/android-mock-response-with-retrofit-okhttp-3c8j)
+- [Mock Response with Retrofit and Okhttp](https://dev.to/adityasimant/android-mock-response-with-retrofit-okhttp-3c8j) 
 
 
+
+<div>
+<img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasimant&theme=react&hide_border=true&stroke=0000&background=060A0CD0">
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasimant&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+</div>
