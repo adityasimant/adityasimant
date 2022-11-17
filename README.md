@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya 
 
-<img   src="https://github.com/adityasimant/adityasimant/blob/main/%40adityasimant%20(1).png">
+<!-- <img   src="https://github.com/adityasimant/adityasimant/blob/main/%40adityasimant%20(1).png"> -->
 
 Development | DevOps | Open-source
 --------------------
@@ -34,6 +34,15 @@ src="https://img.shields.io/twitter/follow/protagonist_z0?logo=twitter&style=for
 ![Image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+
+ <br/>
+    <a href="https://github.com/adityasimant/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasimant&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+  <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasimant&langs_count=8&count_private=true&layout=compact&theme=black-ice&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
 
 ## Latest Blogs :
 
