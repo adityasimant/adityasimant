@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya 
 
-<!-- <img   src="https://github.com/adityasimant/adityasimant/blob/main/%40adityasimant%20(1).png"> -->
+<img   src="https://github.com/adityasimant/adityasimant/blob/main/adityasimant88%40gmail.com.png">
 
 Development | DevOps | Open-source
 --------------------
