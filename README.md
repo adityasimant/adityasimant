@@ -46,7 +46,7 @@ src="https://img.shields.io/twitter/follow/protagonist_z0?logo=twitter&style=for
  <div><img align="right" src=>
 </div> 
 </div> -->
-![stats align="left"  width="50%" ](https://github-readme-streak-stats.herokuapp.com/?user=adityasimant&theme=react&hide_border=true&stroke=0000&background=060A0CD0)
+![stats align="left"  width="30%" ](https://github-readme-streak-stats.herokuapp.com/?user=adityasimant&theme=react&hide_border=true&stroke=0000&background=060A0CD0)
 ![stats align="right" ](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasimant&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
 
