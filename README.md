@@ -25,6 +25,10 @@ src="https://img.shields.io/twitter/follow/protagonist_z0?logo=twitter&style=for
 ### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadisimant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-simant) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Aditya-Simant) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/its_aadi_s)
 
+### Blogs:
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://adityasimant.hashnode.dev/) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/adityasimant)
+
+
 <!-- [![Sparkline](https://stars.medv.io/adityasimant/badges.svg)](https://stars.medv.io/adityasimant/badges) -->
 
 <div align="center">
