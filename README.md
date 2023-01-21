@@ -12,7 +12,6 @@ Development | DevOps | Open-source
  
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=adityasimant&theme=gotham&show_icons=true" alt="Aditya SImant's Github Stats">
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasimant&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Aditya simant's GitHub Stats">
 
 * 🌍  I'm based in Maharashtra, India.
 * 🧠  I'm learning DevOps.
@@ -31,7 +30,7 @@ src="https://img.shields.io/twitter/follow/protagonist_z0?logo=twitter&style=for
 
 
 <!-- [![Sparkline](https://stars.medv.io/adityasimant/badges.svg)](https://stars.medv.io/adityasimant/badges) -->
-
+--------------------
 <div align="center">
 
 ## I work with :
@@ -42,17 +41,20 @@ src="https://img.shields.io/twitter/follow/protagonist_z0?logo=twitter&style=for
 
 
 ![stats align="left"  width="60%" ](https://github-readme-streak-stats.herokuapp.com/?user=adityasimant&theme=react&hide_border=true&stroke=0000&background=060A0CD0)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasimant&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Aditya simant's GitHub Stats">
 
 --------------------
  
  </div>
 
 
+ 
 ## Latest Blogs :
 
 - [Testkube](https://dev.to/adityasimant/testkube-the-kubernetes-native-testing-framework-3m4h)
 - [Mock Response with Retrofit and Okhttp](https://dev.to/adityasimant/android-mock-response-with-retrofit-okhttp-3c8j) 
 - [An Introduction to Microservices](https://adityasimant.hashnode.dev/microservices)
 
+ 
 
 
